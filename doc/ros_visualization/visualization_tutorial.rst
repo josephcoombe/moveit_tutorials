@@ -32,7 +32,7 @@ Build and source the moveit_config package::
   catkin build
   . ~/ws_moveit/devel/setup.bash
 
-*(NOTE: If you don't use the catkin package, simply replace 'catkin build' with 'catkin_make')*
+*(NOTE: If you don't use the catkin_tools package, simply replace 'catkin build' with 'catkin_make')*
 
 This tutorial does **not** require you to actually have a PR2 robot,
 it just needs a set of working robot model files.
